@@ -10,8 +10,8 @@
  */
 
 
-#ifndef __BANK_H__
-#define __BANK_H__
+#ifndef __SHMS_H__
+#define __SHMS_H__
 
 #include <stdio.h>
 #include<string.h>
