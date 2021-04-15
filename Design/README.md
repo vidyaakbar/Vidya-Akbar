@@ -2,17 +2,11 @@
 
 ## High Level Design 
 ### Architecture Design :
-![Architecture](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/hld_1.png)
-### Component Diagram :
-![ComponentDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/COMPONENT.png)
+![Architecture](https://github.com/vidyaakbar/Vidya-Akbar/blob/main/Design/HLD.PNG)
+
 
 ### Usecase Diagram :
-![UsecaseDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/Usecasehdl.jpg)
+![UsecaseDiagram](https://github.com/vidyaakbar/Vidya-Akbar/blob/main/Design/UML.PNG)
 
 ## Low Level Design 
-
-### Package Diagram
-
-![PackageDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/package%20diagram.png)
-### State Diagram :
-![State Diagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/state%20diagram.png)
+--- TBD Structural and Behavioural Diagram ![FeaturesLevelStructuralDiagram](Link to Pic) ![FeaturesBehaviouralDiagram](Link to Pic)
