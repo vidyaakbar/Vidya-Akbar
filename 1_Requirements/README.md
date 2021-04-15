@@ -29,7 +29,7 @@ The Simple Hospital Management System provides wide range of benefit they are as
 
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/vidyaakbar/Vidya-Akbar/blob/main/Requirements/SWOT.jpg)
+![SWOT Analysis](https://github.com/vidyaakbar/Vidya-Akbar/blob/main/1_Requirements/SWOT.jpg)
 
 
 
