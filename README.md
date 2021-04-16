@@ -10,8 +10,8 @@ Simple Hospital Management System.
 Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-<!--[![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/#actions/workflows/c-cpp.yml)-->  To be added | To be added | To be added | To be added
+------|--------------|-------|--------------
+<!--[![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/#actions/workflows/c-cpp.yml)-->      
 
 
 ## Folder Structure
@@ -27,7 +27,7 @@ Folder             | Description
 | Feature Id | Feature |
 | -----------|---------|
 |F_01| Create a new record | |
-|F_02| Displaying all the patients record |
+|F_02| Displaying all patients record |
 |F_03| Search the patient's details  |
 |F_04| Edit the patients information |
 |F_05| Delete the patients information |
@@ -40,7 +40,7 @@ Folder             | Description
 SF Id. |  Name   |    
 -------|---------|
 `260303` | Vidya Akbar |     
-   -->
+
 <!--
 ## Challenges Faced and How Was It Overcome
 
